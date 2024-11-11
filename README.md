@@ -1,7 +1,7 @@
 
 
 <div>
-  <img align="center" alt="Header" src="https://github.com/Thiag-0/Thiag-0/blob/main/img/github-header-image%20(1).png"/>
+  <img align="center" alt="Header" src="https://github.com/Thiag-0/Thiag-0/blob/main/img/header1.png"/>
   </div>
   
   -----
