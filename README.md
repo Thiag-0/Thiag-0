@@ -1,11 +1,15 @@
-
+ -----
 <!-- BANNER -->
 <div>
   <img align="center" alt="Header" src="https://github.com/Thiag-0/Thiag-0/blob/main/img/header1.png"/>
   </div>
   
   -----
+  <!-- BANNER -->
   
+    
+<!-- REDES SOCIAIS -->
+ -----
   <div align="center">
   <table>
   <tr>
@@ -41,6 +45,9 @@
    <td align="center" colspan="11"></td>
   </tr> 
   </table>
+ -----
+  
+<!-- REDES SOCIAIS -->
   
   </div>
   <div align="justify">
@@ -49,13 +56,12 @@
   
   -----
   
-  <!-- BANNER -->
+  
+
   
   
   
-  
-  
-<!-- REDES SOCIAIS -->
+
   -----
   
   <div>
