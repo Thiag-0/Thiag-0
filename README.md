@@ -154,38 +154,7 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=w7mbw0jdp5aq40ss27mfmkhii" alt="Data Card for Spotify">
   
   </div>
-  
-  <div align="center">
-  <table>
-  <tr>
-   <td align="center" colspan="3"></td>
-  </tr> 
-  <tr>
-  <td>
-  <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-  </td>
-  <td>
-  <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=w7mbw0jdp5aq40ss27mfmkhii&count=10"/>
-  </td>
-  <td>
-  <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-  
-  </td>
-  </tr>
-  <tr>
-   <td align="center" colspan="3"></td>
-  </tr> 
-  </table>
-  </div>
-  
-  <div>
-  <details>
-  <summary>:headphones: :guitar: :drum:</summary>
-  
-  [Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
-  
-  </details>
-  </div>
+ 
   
   -----
   
