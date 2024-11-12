@@ -82,7 +82,7 @@
   - :basketball: Sou torcedor do <a href="https://www.instagram.com/celtics/" target="_blank">Boston Celtics 🍀:</a><br />
   - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The IT Crowd</a>. Atualmente estou assistindo <a href="https://www.imdb.com/title/tt9813792/" target="_blank">From</a>.<br />
   - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-  - :mailbox: Para me encontrar, este é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal e este é meu <a href="mailto:joaoaramuni@pucminas.br" target="_blank">e-email</a> corporativo da PUC Minas.<br />
+  - :mailbox: Para me encontrar, este é meu <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thiagoaugustodasilvalima@gmail.com ">e-mail</a> pessoal </a><br />
   - :calendar: Essa é minha <a href="https://calendar.google.com/calendar/u/0?cid=dGhpYWdvYXVndXN0b2Rhc2lsdmFsaW1hQGdtYWlsLmNvbQ">agenda</a> se quiser marcar um horário para falarmos.<br />
   - :page_facing_up: Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
   </p>
