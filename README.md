@@ -55,14 +55,9 @@
 <!-- APRESENTAÇÃO -->
 
   
-  
-
-  
-  
-  
 
  
-      <!-- EXPERIÊNCIAS-->
+      
   <div>
   
   <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
