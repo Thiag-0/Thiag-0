@@ -38,19 +38,21 @@
    <!--INSTAGRAM-->
   <td><a href="https://www.instagram.com/thiago_asl/" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/insta2.png" width="50px" height="50px"/></a>
   </td>
-
   </tr> 
   </table>
  -----
   
 <!-- REDES SOCIAIS -->
+
+<!-- APRESENTAÇÃO -->
   
   </div>
   <div align="justify">
   <i><b>Olá</b> :wave:, sou o <code>Thiago</code>, tenho 22 anos, moro em Sabará e sou estudante do curso de Sistemas de Informação no <a href="https://www.ifmg.edu.br/sabara" target="_blank">IFMG Sabará</a>.</i> :man_teacher:<br />
   </div>
   
-  -----
+<!-- APRESENTAÇÃO -->
+
   
   
 
