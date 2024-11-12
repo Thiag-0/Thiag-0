@@ -18,7 +18,7 @@
   <tr>
        
 <!-- GITHUB-->
-  <td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/github2.png" width="50px" height="50px"/></a>  
+  <td><a href="https://www.linkedin.com/in/thiago-silva-781122291/" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/github2.png" width="50px" height="50px"/></a>  
   </td>
 <!--Linkedin-->
   <td><a href="https://replit.com/@aramuni"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
