@@ -79,7 +79,7 @@
   - :memo: Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
   - :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
   - :soccer: Sou Cruzeirense, torço para a <a href="https://www.cruzeiro.com.br/" target="_blank">Raposa</a>. 🦊:<br />
-  - :basketball: Sou torcedor do<a href="https://www.instagram.com/celtics/" target="_blank">Boston Celtics 🍀:</a><br />
+  - :basketball: Sou torcedor do <a href="https://www.instagram.com/celtics/" target="_blank">Boston Celtics 🍀:</a><br />
   - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The IT Crowd</a>. Atualmente estou assistindo <a href="https://www.imdb.com/title/tt9813792/" target="_blank">From</a>.<br />
   - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
   - :mailbox: Para me encontrar, este é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal e este é meu <a href="mailto:joaoaramuni@pucminas.br" target="_blank">e-email</a> corporativo da PUC Minas.<br />
