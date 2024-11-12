@@ -18,16 +18,16 @@
   <tr>
        
 <!-- GITHUB-->
-  <td><a href="https://www.linkedin.com/in/thiago-silva-781122291/" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/github2.png" width="50px" height="50px"/></a>  
+  <td><a href="https://github.com/Thiag-0" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/github2.png" width="50px" height="50px"/></a>  
   </td>
 <!--Linkedin-->
-  <td><a href="https://replit.com/@aramuni"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
+  <td><a href="https://www.linkedin.com/in/thiago-silva-781122291/"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
   </td>
 <!-- GMAIL -->
-  <td><a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/gmail3.png" width="50px" height="50px"/></a>
+  <td><a href="thiagoaugustodasilvalima@gmail.com " target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/gmail3.png" width="50px" height="50px"/></a>
   </td>
   <!-- AGENDA -->
-  <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/calendar2.png" width="50px" height="50px"/></a>
+  <td><a href="https://calendar.google.com/calendar/u/0?cid=dGhpYWdvYXVndXN0b2Rhc2lsdmFsaW1hQGdtYWlsLmNvbQ" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/calendar2.png" width="50px" height="50px"/></a>
   </td>
   <!-- DISCORD -->
   <td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/discord2.png" width="50px" height="50px"/></a>
