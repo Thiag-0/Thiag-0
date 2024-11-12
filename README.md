@@ -78,7 +78,7 @@
   - :atom: Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c" target="_blank">aqui</a>. (Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/main/PROJETOS/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
   - :memo: Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
   - :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
-  - :soccer: Sou Cruzeirense, torço para a <a href="https://www.cruzeiro.com.br/" target="_blank">Raposa</a>. :rooster:<br />
+  - :soccer: Sou Cruzeirense, torço para a <a href="https://www.cruzeiro.com.br/" target="_blank">Raposa</a>. 🦊:<br />
   - :basketball: Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a> e violão.<br />
   - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The IT Crowd</a>. Atualmente estou assistindo <a href="https://www.imdb.com/title/tt9813792/" target="_blank">From</a>.<br />
   - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
