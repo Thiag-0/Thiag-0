@@ -1,6 +1,6 @@
  -----
 <!-- BANNER -->
-<div>
+<div align="center" >
   <img  alt="header" src="https://github.com/Thiag-0/Thiag-0/blob/main/image.png"/>
   </div>
 
