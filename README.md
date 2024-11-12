@@ -71,14 +71,15 @@
   - :man_teacher: No <a href="https://www.ifmg.edu.br/sabara" target="_blank">IFMG Sabará</a>, sou <code>estudante</code> no cursos Sistemas de informação.<br />
   - :mortar_board: Na <a href="https://www.cna.com.br/" target="_blank">CNA</a>, estudei <code>INgles Básico ao Avançado</code> durante 6 anos treinando leitura, escrita e conversação com ótimos professores.<br />
    - :necktie: Na <a href="https://www.netviewinformatica.com.br/" target="_blank">NetView Informática</a>, atuei como Estagiário de <code>Desenvolvimento FullStack</code>, responsável pela correção  de bugs e desenvolvimento de múltiplas funcionalidades para o sistema SAM voltado para a locação de ferramentas para construção . 👷:<br />
+  - :mailbox: Para me encontrar, este é meu <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thiagoaugustodasilvalima@gmail.com ">e-mail</a> pessoal </a><br />
+  - :calendar: Essa é minha <a href="https://calendar.google.com/calendar/u/0?cid=dGhpYWdvYXVndXN0b2Rhc2lsdmFsaW1hQGdtYWlsLmNvbQ">agenda</a> se quiser marcar um horário para falarmos.<br />
+  - :page_facing_up: Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 
   - :soccer: Sou Cruzeirense, torço para a <a href="https://www.cruzeiro.com.br/" target="_blank">Raposa</a>. 🦊:<br />
   - :basketball: Sou torcedor do <a href="https://www.instagram.com/celtics/" target="_blank">Boston Celtics 🍀:</a><br />
   - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The Man in The High Castle</a><br />
   - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-  - :mailbox: Para me encontrar, este é meu <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thiagoaugustodasilvalima@gmail.com ">e-mail</a> pessoal </a><br />
-  - :calendar: Essa é minha <a href="https://calendar.google.com/calendar/u/0?cid=dGhpYWdvYXVndXN0b2Rhc2lsdmFsaW1hQGdtYWlsLmNvbQ">agenda</a> se quiser marcar um horário para falarmos.<br />
-  - :page_facing_up: Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
+
   </p>
   </div>
   </td>
