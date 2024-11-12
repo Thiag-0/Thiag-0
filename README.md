@@ -76,11 +76,11 @@
   - :trophy: Fui o <a href="https://www.linkedin.com/posts/joaopauloaramuni_estou-muito-honrado-com-essa-homenagem-do-activity-7164606251341889536-_khY" target="_blank">professor destaque</a> do curso de Sistemas de Informação da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
   - :mortar_board: Fui o <a href="https://www.fumec.br/servicos/colacao-de-grau/homenagens/" target="_blank">patrono</a> da turma de Ciência da Computação da <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a> no primeiro semestre de 2020.<br />
   - :atom: Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c" target="_blank">aqui</a>. (Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/main/PROJETOS/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
-  - :memo: Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
-  - :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
+
+  
   - :soccer: Sou Cruzeirense, torço para a <a href="https://www.cruzeiro.com.br/" target="_blank">Raposa</a>. 🦊:<br />
   - :basketball: Sou torcedor do <a href="https://www.instagram.com/celtics/" target="_blank">Boston Celtics 🍀:</a><br />
-  - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The IT Crowd</a>. Atualmente estou assistindo <a href="https://www.imdb.com/title/tt9813792/" target="_blank">From</a>.<br />
+  - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The Man in The High Castle</a>. Atualmente estou assistindo <a href="https://www.imdb.com/title/tt9813792/" target="_blank">From</a>.<br />
   - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
   - :mailbox: Para me encontrar, este é meu <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thiagoaugustodasilvalima@gmail.com ">e-mail</a> pessoal </a><br />
   - :calendar: Essa é minha <a href="https://calendar.google.com/calendar/u/0?cid=dGhpYWdvYXVndXN0b2Rhc2lsdmFsaW1hQGdtYWlsLmNvbQ">agenda</a> se quiser marcar um horário para falarmos.<br />
