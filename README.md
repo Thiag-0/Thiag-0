@@ -104,9 +104,10 @@
 
       <!-- EXPERIÊNCIAS-->
 
-  
+  <div align="center" >
+  <img  alt="header" src="https://github.com/Thiag-0/Thiag-0/blob/main/img/Captura%20de%20tela%202024-11-12%20002832.png"/>
+  </div>
 
-  
 
     <!-- STATUS GITHUB-->
   <div>
