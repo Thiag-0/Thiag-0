@@ -24,7 +24,7 @@
   <td><a href="https://www.linkedin.com/in/thiago-silva-781122291/"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
   </td>
 <!-- GMAIL -->
-  <td><a href="mailto:thiagoaugustodasilvalima@gmail.com " target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/gmail3.png" width="50px" height="50px"/></a>
+  <td><a href="https://mail.google.com/mail/?view=cm&fs=1&to=thiagoaugustodasilvalima@gmail.com " target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/gmail3.png" width="50px" height="50px"/></a>
   </td>
   <!-- AGENDA -->
   <td><a href="https://calendar.google.com/calendar/u/0?cid=dGhpYWdvYXVndXN0b2Rhc2lsdmFsaW1hQGdtYWlsLmNvbQ" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/calendar2.png" width="50px" height="50px"/></a>
