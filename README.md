@@ -77,7 +77,7 @@
 
   - :soccer: Sou Cruzeirense, torço para a <a href="https://www.cruzeiro.com.br/" target="_blank">Raposa</a>. 🦊:<br />
   - :basketball: Sou torcedor do <a href="https://www.instagram.com/celtics/" target="_blank">Boston Celtics 🍀:</a><br />
-  - :Hockei: Sou torcedor do <a href="https://www.instagram.com/celtics/" target="_blank">Tampa Bay Lightning 🏒:</a><br />   
+  - 🏒: Sou torcedor do <a href="https://www.instagram.com/celtics/" target="_blank">Tampa Bay Lightning 🌩️:</a><br />   
   - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The Man in The High Castle</a><br />
   - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 
