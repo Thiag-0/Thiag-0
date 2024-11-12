@@ -69,7 +69,7 @@
   <div align="justify">
   <p> 
   - :man_teacher: No <a href="https://www.ifmg.edu.br/sabara" target="_blank">IFMG Sabará</a>, sou <code>estudante</code> no cursos Sistemas de informação.<br />
-  - :mortar_board: Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, fui <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
+  - :mortar_board: Na <a href="https://newtonpaiva.br/" target="_blank">CNA</a>, estudei <code>INgles Básico ao Avançado</code> durante 6 anos treinando leitura, escrita e conversação com ótimos professores.<br />
    - :necktie: Na <a href="https://www.netviewinformatica.com.br/" target="_blank">NetView Informática</a>, atuei como Estagiário de <code>Desenvolvimento FullStack</code>, responsável pela correção  de bugs e desenvolvimento de múltiplas funcionalidades para o sistema SAM voltado para a locação de ferramentas para construção . 👷:<br />
   - :briefcase: Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência da Computação para a primeira turma da escola. :man_teacher:<br />
   - :man_teacher: Também fui <code>professor</code> de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">Faculdade XP Educação</a> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
