@@ -62,7 +62,7 @@
   
 
  
-  
+      <!-- EXPERIÊNCIAS-->
   <div>
   
   <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -108,13 +108,15 @@
   </div>
   
   -----
+   
+      <!-- EXPERIÊNCIAS-->
+
   
 
   
   
-  
   -----
-  
+    <!-- STATUS GITHUB-->
   <div>
   
   <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
@@ -139,13 +141,18 @@
    <td align="center" colspan="3"></td>
   </tr> 
   </table>
+      <!-- STATUS GITHUB-->
+  -----
+
+
+
+
+
+  
+  
   
   -----
-  
-  
-  
-  -----
-  
+  <!-- SPOTFY-->
   <div>
    
   <div>
@@ -154,7 +161,7 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=w7mbw0jdp5aq40ss27mfmkhii" alt="Data Card for Spotify">
   
   </div>
- 
+   <!-- SPOTFY-->
   
   -----
   
