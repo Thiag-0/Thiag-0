@@ -30,7 +30,7 @@
   <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/calendar2.png" width="50px" height="50px"/></a>
   </td>
   <!-- DISCORD -->
-  <td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="hhttps://github.com/Thiag-0/Thiag-0/blob/main/img/discord2.png" width="50px" height="50px"/></a>
+  <td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/discord2.png" width="50px" height="50px"/></a>
   </td>
   <!--WHATSAPP-->
   <td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
