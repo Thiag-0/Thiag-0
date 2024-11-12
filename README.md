@@ -30,7 +30,7 @@
   <td><a href="https://calendar.google.com/calendar/u/0?cid=dGhpYWdvYXVndXN0b2Rhc2lsdmFsaW1hQGdtYWlsLmNvbQ" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/calendar2.png" width="50px" height="50px"/></a>
   </td>
   <!-- DISCORD -->
-  <td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/discord2.png" width="50px" height="50px"/></a>
+  <td><a href="https://discord.com/users/th3_clown_" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/discord2.png" width="50px" height="50px"/></a>
   </td>
   <!--WHATSAPP-->
   <td><a href="https://wa.me/5531997418074?text=Olá,%20gostaria%20de%20mais%20informações!" target="_blank"><img src="https://github.com/Thiag-0/Thiag-0/blob/main/img/wpp2.png" width="50px" height="50px"/></a>
