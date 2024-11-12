@@ -101,15 +101,13 @@
   
   </div>
   
-  -----
-   
+
       <!-- EXPERIÊNCIAS-->
 
   
 
   
-  
-  -----
+
     <!-- STATUS GITHUB-->
   <div>
   
