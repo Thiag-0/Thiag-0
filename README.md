@@ -1,7 +1,7 @@
  -----
 <!-- BANNER -->
 <div>
-  <img align="center" alt="header" src="https://github.com/Thiag-0/Thiag-0/blob/main/image.png"/>
+  <img  alt="header" src="https://github.com/Thiag-0/Thiag-0/blob/main/image.png"/>
   </div>
 
   <!-- BANNER -->
