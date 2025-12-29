@@ -100,7 +100,8 @@
   <br />
   <br />
   <a href="https://open.spotify.com/user/w7mbw0jdp5aq40ss27mfmkhii">
-    <img src="https://spotify-data-card.onrender.com/api/card?user_id=w7mbw0jdp5aq40ss27mfmkhii" alt="Data Card for Spotify">
+    <img src="[https://spotify-data-card.onrender.com/api/card?user_id=w7mbw0jdp5aq40ss27mfmkhii](https://data-card-for-spotify.herokuapp.com/card?user_id=w7mbw0jdp5aq40ss27mfmkhii">
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=w7mbw0jdp5aq40ss27mfmkhii" alt="Data Card for Spotify)" alt="Data Card for Spotify">
   </a>
 </div>
 
