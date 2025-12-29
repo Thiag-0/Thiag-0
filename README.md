@@ -72,8 +72,12 @@
 ---
 
 <div align="center">
-  <summary><img height="20" alt="GIF" src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/spotify.gif?raw=true"/> Thiago's Spotify Data</summary>
-  <img src="https://spotify-data-card.onrender.com/api/card?user_id=w7mbw0jdp5aq40ss27mfmkhii" alt="Data Card for Spotify">
+  <img height="20" alt="GIF" src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/spotify.gif?raw=true"/> <b>Thiago's Spotify Data</b>
+  <br />
+  <br />
+  <a href="https://open.spotify.com/user/w7mbw0jdp5aq40ss27mfmkhii">
+    <img src="https://spotify-data-card.onrender.com/api/card?user_id=w7mbw0jdp5aq40ss27mfmkhii" alt="Data Card for Spotify">
+  </a>
 </div>
 
 ---
