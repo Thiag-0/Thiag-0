@@ -60,19 +60,6 @@
 ---
 
 <div align="center">
-  <img height="20" alt="GIF" src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/graphic.gif?raw=true"/> <b>GitHub Stats:</b>
-  <br />
-  <br />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Thiag-0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br" />
-  <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiag-0&theme=dark&locale=pt-br&langs_count=7&layout=compact" />
-  <br />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.vercel.app/?user=Thiag-0&theme=dark&locale=pt-br&hide_border=true" />
-</div>
-
-
----
-
-<div align="center">
   <img height="20" alt="GIF" src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/spotify.gif?raw=true"/> <b>Thiago's Spotify Data</b>
   <br />
   <br />
