@@ -81,3 +81,27 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF007F&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
 
 ---
+---
+
+<div align="center">
+  <img height="20" alt="GIF" src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/graphic.gif?raw=true"/> <b>GitHub Stats:</b>
+  <br />
+  <br />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Thiag-0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br" />
+  <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiag-0&theme=dark&locale=pt-br&langs_count=7&layout=compact" />
+  <br />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.vercel.app/?user=Thiag-0&theme=dark&locale=pt-br&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img height="20" alt="GIF" src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/spotify.gif?raw=true"/> <b>Thiago's Spotify Data</b>
+  <br />
+  <br />
+  <a href="https://open.spotify.com/user/w7mbw0jdp5aq40ss27mfmkhii">
+    <img src="https://spotify-data-card.onrender.com/api/card?user_id=w7mbw0jdp5aq40ss27mfmkhii" alt="Data Card for Spotify">
+  </a>
+</div>
+
+---
